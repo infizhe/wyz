@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T13:46:16.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="fGPCaGEfdlrvL6HvGIiL" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T13:50:19.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="2SuftWEfYkBUqrMiYqYf" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Zj0Gl-tEwYZJbl1M6te6">
     <mxGraphModel dx="1369" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,26 @@
         <mxCell id="n5eGXi3xPGbtdrWgbVPo-50" value="社区B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="517" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n5eGXi3xPGbtdrWgbVPo-68" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="385" width="200" height="200" as="geometry" />
+        <mxCell id="n5eGXi3xPGbtdrWgbVPo-68" value="" style="swimlane;startSize=0;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="n5eGXi3xPGbtdrWgbVPo-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#990000;strokeColor=#b85450;width=4.888888888888889;endSize=4.782222222222222;endWidth=7.604938271604938;exitX=0.411;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="n5eGXi3xPGbtdrWgbVPo-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67" y="25" as="sourcePoint" />
+            <mxPoint x="20" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n5eGXi3xPGbtdrWgbVPo-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#004C99;strokeColor=#6c8ebf;width=4.888888888888889;endSize=4.782222222222222;endWidth=7.604938271604938;exitX=0.411;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="n5eGXi3xPGbtdrWgbVPo-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67" y="55" as="sourcePoint" />
+            <mxPoint x="20" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n5eGXi3xPGbtdrWgbVPo-71" value="异质性连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=21;" vertex="1" parent="n5eGXi3xPGbtdrWgbVPo-68">
+          <mxGeometry x="80" y="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n5eGXi3xPGbtdrWgbVPo-72" value="同质性连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=21;" vertex="1" parent="n5eGXi3xPGbtdrWgbVPo-68">
+          <mxGeometry x="80" y="35" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
